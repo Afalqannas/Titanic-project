@@ -11,7 +11,6 @@ Dependencies:
 - SciKit-Learn
 - SciPy
 - StatsModels
-- Patsy
 - Matplotlib
 
 
