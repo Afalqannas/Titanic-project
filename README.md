@@ -12,6 +12,7 @@ Dependencies:
 - SciPy
 - StatsModels
 - Matplotlib
+- Seaborn
 
 
 Competition link: https://www.kaggle.com/c/titanic
