@@ -23,7 +23,6 @@ Competition link: https://www.kaggle.com/c/titanic
 |Feature|Description|
 |-------|---|
 |review_title|The Title for the whole review| 
-|Pclass|Economic status (class)| 
 |overall_review|The whole customer review details| 
 |pros|The customer opinion about the good things in this product| 
 |ownership_pariod|How long the customer owned this product| 
