@@ -1,7 +1,7 @@
 # Titanic
 
 
-This is  an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster.
+This is  an IPython Notebook for Kaggle competition, Titanic Machine Learning From Disaster.
 
 
 Dependencies:
